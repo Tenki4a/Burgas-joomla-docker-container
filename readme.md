@@ -2,10 +2,10 @@
 
 We had a lot of fun
 
-##Contributors
+## Contributors
 
-Stoyan Dolapchiev
-Kristiyan Neychev
-Alexander Yorgov
-Bozhidar Mirchev
-Emil Lyudmilov
+ - [Stoyan Dolapchiev](http://stoyan.whatever.com)
+ - Kristiyan Neychev
+ - Alexander Yorgov
+ - Bozhidar Mirchev
+ - Emil Lyudmilov
